@@ -24,7 +24,7 @@
 		<!-- for tests using PDFBox classes accessing BC use 1.47 -->
 		<!-- for tests with own classes accessing BC use 1.52 -->
 		<bc.version>1.52</bc.version>
-		<junit.version>4.7</junit.version>		
+		<junit.version>4.13.1</junit.version>		
 		<jsoup.version>1.10.1</jsoup.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
