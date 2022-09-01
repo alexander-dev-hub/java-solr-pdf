@@ -25,7 +25,7 @@
 		<!-- for tests with own classes accessing BC use 1.52 -->
 		<bc.version>1.52</bc.version>
 		<junit.version>4.7</junit.version>		
-		<jsoup.version>1.10.1</jsoup.version>
+		<jsoup.version>1.15.3</jsoup.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		 
